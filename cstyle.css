@@ -1,0 +1,89 @@
+.main{
+    padding: 80px;
+    margin: 20px;
+    /* width: 250px; */
+    /* height: 100px; */
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+
+
+    
+    
+    
+}
+
+.border{
+    padding: 5px;
+    border: 1px double chocolate ;
+    border-radius: 10px;
+    background-color: rgb(181, 181, 253);
+
+    
+    
+}
+
+.div1{
+    margin-bottom: 5px;
+
+}
+
+#input{
+    width: 260px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: rgb(68, 68, 136);
+    color: rgb(244, 244, 248);
+}
+
+.div2{
+    /* display: flex; */
+    /* background :cadetblue; */
+    margin: 0px;
+}
+
+.div3{
+
+}
+
+.operator{
+    margin-bottom: 4px;
+    width: 50px;
+    height: 50px;
+    background-color: lavender;
+    color: chocolate;
+    font-size: large;
+    border-radius: 10px;
+
+}
+
+.number{
+    margin-bottom: 4px;
+    width: 50px;
+    height: 50px;
+    background-color: lavender;
+
+    color: chocolate;
+    font-size: large;
+    border-radius: 10px;
+
+}
+
+.keypad{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.clear{
+    margin-bottom: 4px;
+    margin-left: 4px;
+    width: 50px;
+    height: 103.7px;
+    background-color: lavender;
+
+    color: chocolate;
+    font-size: large;
+    border-radius: 10px;
+}
